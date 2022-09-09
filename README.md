@@ -2,8 +2,8 @@
 <h1 align="center">
  Hi 👋, I’m Srikanth Shet
 </h1>
-<h5 align="center">Front end developer | Technology enthusiastic</h5>
-<hr>
+<h4 align="center">Front end developer | Technology enthusiastic</h4>
+
 
 - ✨ Front end developer with focus on delivering quality code, mentoring, knowledge sharing, continous learning and improvement.
 - 📫 Reach out to me on [LinkedIn](linkedin.com/in/srikanthshet/) or mail me here: techneo1@gmail.com
